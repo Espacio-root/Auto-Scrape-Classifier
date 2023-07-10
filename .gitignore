@@ -1,0 +1,8 @@
+\venv
+\images
+\best_models
+\.vscode
+\__pycache__
+
+test*
+```
